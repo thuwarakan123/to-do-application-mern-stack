@@ -8,10 +8,6 @@ A Todo app developed using MERN (MongoDB, Express.js, React, Node.js) technology
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -40,10 +36,14 @@ This project is a Todo application that allows users to add, update, and delete 
 
 2. Install dependencies for both backend and frontend:
 
-   ### 'cd backend'
+   ```bash
+   cd backend
+   ```bash
    npm install
 
+   ```bash
    cd ../frontend
+   ```bash
    npm install
 
 
