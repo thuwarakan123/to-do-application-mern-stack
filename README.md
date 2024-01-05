@@ -38,11 +38,13 @@ This project is a Todo application that allows users to add, update, and delete 
 
    ```bash
    cd backend
+   
    ```bash
    npm install
 
    ```bash
    cd ../frontend
+   
    ```bash
    npm install
 
