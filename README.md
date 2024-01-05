@@ -36,10 +36,10 @@ This project is a Todo application that allows users to add, update, and delete 
 
 2. Install dependencies for both the backend and frontend:
 
-   'cd backend'
-   'npm install'
+   `cd backend`
+   `npm install`
 
-   'cd ../frontend'
+   `cd ../frontend`
    `npm install`
 
 
