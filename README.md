@@ -34,18 +34,12 @@ This project is a Todo application that allows users to add, update, and delete 
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
-2. Install dependencies for both backend and frontend:
+2. Install dependencies for both the backend and frontend:
 
-   ```bash
-   cd backend
-   
-   ```bash
-   npm install
+   'cd backend'
+   'npm install'
 
-   ```bash
-   cd ../frontend
-   
-   ```bash
-   npm install
+   'cd ../frontend'
+   `npm install`
 
 
